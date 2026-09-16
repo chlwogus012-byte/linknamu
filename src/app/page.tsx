@@ -2,10 +2,9 @@ import ProfileHeader from "@/components/ProfileHeader";
 import LinkCard from "@/components/LinkCard";
 
 const links = [
-  { label: "GitHub", href: "https://github.com/" },
-  { label: "LinkedIn", href: "https://linkedin.com/" },
-  { label: "Blog", href: "https://example.com/blog" },
-  { label: "Instagram", href: "https://instagram.com/" },
+  { label: "🐙 깃허브", href: "https://github.com/chlwogus012-byte" },
+  { label: "✉️ 블로그", href: "https://blog.naver.com/akabsk" },
+  { label: "🏠 홈페이지", href: "https://brabomarketing.co.kr/" },
 ];
 
 export default function Home() {
