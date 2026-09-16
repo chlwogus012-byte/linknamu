@@ -15,7 +15,7 @@ export default function Home() {
         <ProfileHeader
           name="최재현"
           bio="AI 마케팅 컨설턴트 | AI로 마케팅 합니다"
-          imageUrl="https://placehold.co/150x150/orange/white"
+          imageUrl="/profile.png"
         />
         <div className="flex w-full flex-col gap-4">
           {links.map((link) => (
